@@ -3,3 +3,4 @@ testing
 mvn
 slaves
 slave testing
+sonar testing
